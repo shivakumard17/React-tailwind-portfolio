@@ -6,12 +6,12 @@ function WorkItem({ imgUrl, title, tech, workUrl }) {
 			href={workUrl}
 			target="_blank"
 			rel="noreferrer"
-			className="bg-slate-300 dark:bg-slate-800 rounded-lg overflow-hidden"
+			className="bg-slate-300 dark:bg-slate-800  rounded-lg overflow-hidden hover:-translate-y-2 transform transition"
 		>
 			<img
 				src={imgUrl}
 				alt="work"
-				className="w-full h-36 md:h-48 object-cover"
+				className="w-full h-36  md:h-48 object-cover"
 			/>
 			<div className="w-full p-5 text-gray-600 dark:text-gray-300 ">
 				<h3 className="text-lg md:text-xl mb-2 md:mb-3 font-semibold">

@@ -1,4 +1,5 @@
 import React from 'react';
+import { FaInstagram, FaGithub, FaLinkedin } from 'react-icons/fa';
 
 function HeroSection() {
 	return (
@@ -13,10 +14,45 @@ function HeroSection() {
 				</p>
 				<a
 					href="#works"
-					className="inline-block px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700 md:text-md "
+					className="inline-block px-8 py-3 border mt-3 border-transparent text-base font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700 md:text-md "
 				>
 					See Works
 				</a>
+				<a
+					href="#works"
+					className="inline-block  hover:text-white px-8 py-3 border ml-2 mt-3 text-indigo-500  dark:text-gray-300  border-indigo-600 text-base font-medium rounded-md  bg-{#33333303} hover:bg-indigo-700 text-white md:text-md "
+				>
+					Resume ↓
+				</a>
+				<ul className="text-indigo-500 flex justify-center gap-4 mt-6 text-2xl ">
+					<li className="transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-100 hover:text-white   ">
+						<a
+							href="https://github.com/shivakumard17"
+							target="_blank"
+							rel="noreferrer"
+						>
+							<FaGithub />
+						</a>
+					</li>
+					<li className="transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-100 hover:text-white  ">
+						<a
+							href="https://www.linkedin.com/in/shivakumard17/"
+							target="_blank"
+							rel="noreferrer"
+						>
+							<FaLinkedin />
+						</a>
+					</li>
+					<li className="transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-100 hover:text-white  ">
+						<a
+							href="https://www.instagram.com/draco_code/"
+							target="_blank"
+							rel="noreferrer"
+						>
+							<FaInstagram />
+						</a>
+					</li>
+				</ul>
 			</div>
 		</div>
 	);

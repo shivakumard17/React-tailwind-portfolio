@@ -1,5 +1,5 @@
 import React from 'react';
-import myImg from '../images/hero.jpg';
+import myImg from '../images/hero.png';
 import SectionTitle from './SectionTitle';
 
 function About() {
@@ -8,23 +8,29 @@ function About() {
 			<div className="w-full md:w-6/12">
 				<SectionTitle>About Me</SectionTitle>
 				<p className="text-md text-gray-600 dark:text-gray-300">
-					Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores
-					veniam dolor consectetur pariatur explicabo, iure nulla. Dolor
-					debitis, natus cum ad, fugiat excepturi minima culpa atque modi
-					accusantium vel voluptatem?
+					I’m a Front-End Developer located in Hyderabad,India. I enjoy creating
+					things that live on the internet.My interest in web development
+					started back in 2021. Here are a few technologies I’ve been working
+					with recently:
 				</p>
+				<ul className="text-md text-indigo-600 dark:text-indigo-500 list-disc ml-4 mt-3 mb-4">
+					<li>JavaScript (ES6+)</li>
+					<li>React</li>
+					<li>TailwindCss</li>
+					<li>Html&Css</li>
+				</ul>
 				<a
-					href="mailto:webcifar.com"
-					className="block mt-3 text-md md:text-lg text-gray-700 dark:text-gray-300 underline decoration-1 hover:text-indigo-500 dark:hover:text-indigo-500"
+					href="mailto:webcifar@gmail.com"
+					className="text-sm md:text-md    text-white p-2 m-2 bg-indigo-600 rounded-md  hover:bg-indigo-700"
 				>
-					webcifar@gmail.com
+					Contact Me
 				</a>
 			</div>
 
 			<img
 				src={myImg}
 				alt="Arfan"
-				className="w-full md:w-6/12 rounded-lg object-cover"
+				className="w-50% md:w-6/12 rounded-lg object-cover saturate-0 bg-white  rounded-full hover:saturate-100 "
 			/>
 		</div>
 	);

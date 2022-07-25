@@ -9,9 +9,9 @@ export default [
 	{
 		title: 'Portfolio',
 		imgUrl:
-			'https://raw.githubusercontent.com/ShaifArfan/shaif-s-cuisine/main/readmeImg/banner.png',
+			'https://raw.githubusercontent.com/shivakumard17/react-tailwind-portfolio/master/src/images/portfolio-1.png',
 		tech: ['React', 'TailwindCSS', 'Netlify'],
-		workUrl: 'https://github.com/ShaifArfan/shaif-s-cuisine',
+		workUrl: 'https://github.com/shivakumard17/react-tailwind-portfolio',
 	},
 	{
 		title: "Ayan's Portfolio Website",
