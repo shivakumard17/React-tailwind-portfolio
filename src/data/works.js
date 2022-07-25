@@ -14,11 +14,11 @@ export default [
 		workUrl: 'https://github.com/shivakumard17/react-tailwind-portfolio',
 	},
 	{
-		title: "Ayan's Portfolio Website",
+		title: 'Crypto-currency-website',
 		imgUrl:
-			'https://raw.githubusercontent.com/ShaifArfan/AYANs-portfolio/main/ReadMeImages/ReadMeBanner.png',
-		tech: ['React JS', 'CSS'],
-		workUrl: 'https://github.com/ShaifArfan/AYANs-portfolio',
+			'https://raw.githubusercontent.com/shivakumard17/Crypto-app-react-main/master/src/components/crpto-image.png',
+		tech: ['React JS', 'Axios', 'CSS'],
+		workUrl: 'https://github.com/shivakumard17/Crypto-app-react-main',
 	},
 	{
 		title: 'Artistic',
