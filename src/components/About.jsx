@@ -16,6 +16,7 @@ function About() {
 				<ul className="text-md text-indigo-600 dark:text-indigo-500 list-disc ml-4 mt-3 mb-4">
 					<li>JavaScript (ES6+)</li>
 					<li>React</li>
+					<li>Redux</li>
 					<li>TailwindCss</li>
 					<li>Html&Css</li>
 				</ul>
@@ -30,7 +31,7 @@ function About() {
 			<img
 				src={myImg}
 				alt="Arfan"
-				className="w-50% md:w-6/12 rounded-lg object-cover saturate-0 bg-white  rounded-full hover:saturate-100 "
+				className="h-80 saturate-0  hover:saturate-100 "
 			/>
 		</div>
 	);

@@ -14,7 +14,7 @@ export default [
 		title: 'Ui Design',
 		icon: <FaHandHoldingHeart className="w-full h-full" />,
 		description:
-			'I value simple content structure, clean design patterns, and thoughtful interactions.i use "figma" as tool',
+			'I value simple content structure, clean design patterns, and thoughtful interactions.',
 		tools: 'Figma',
 	},
 	{
