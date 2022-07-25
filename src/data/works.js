@@ -21,10 +21,10 @@ export default [
 		workUrl: 'https://github.com/shivakumard17/Crypto-app-react-main',
 	},
 	{
-		title: 'Artistic',
+		title: 'React-Blog-Site',
 		imgUrl:
-			'https://raw.githubusercontent.com/ShaifArfan/artistic/main/readmeImg/banner.png',
+			'https://raw.githubusercontent.com/shivakumard17/React-blog/master/src/blog-site.png',
 		tech: ['React JS', 'CSS'],
-		workUrl: 'https://github.com/ShaifArfan/artistic',
+		workUrl: 'https://github.com/shivakumard17/React-blog',
 	},
 ];
