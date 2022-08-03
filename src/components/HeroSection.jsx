@@ -24,7 +24,7 @@ function HeroSection() {
 				>
 					Resume ↓
 				</a>
-				<ul className="text-indigo-500 flex justify-center gap-4 mt-3 text-2xl ">
+				<ul className="text-indigo-500 flex justify-center gap-4 mt-6 text-2xl ">
 					<li className="transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-100 hover:text-white   ">
 						<a
 							href="https://github.com/shivakumard17"
