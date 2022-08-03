@@ -29,7 +29,7 @@ export default [
 			'https://raw.githubusercontent.com/shivakumard17/React-blog/master/src/blog-site.png',
 		tech: ['React JS', 'CSS'],
 		workUrl: 'https://github.com/shivakumard17/React-blog',
-		live: 'https://blog-site-sk.netlify.app',
+		live: 'zox-react-website.netlify.app',
 	},
 	{
 		title: 'ZoxNews-website',
