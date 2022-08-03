@@ -29,7 +29,7 @@ export default [
 			'https://raw.githubusercontent.com/shivakumard17/React-blog/master/src/blog-site.png',
 		tech: ['React JS', 'CSS'],
 		workUrl: 'https://github.com/shivakumard17/React-blog',
-		live: 'zox-react-website.netlify.app',
+		live: 'https://blog-site-sk.netlify.app',
 	},
 	{
 		title: 'ZoxNews-website',
@@ -37,6 +37,6 @@ export default [
 			'https://raw.githubusercontent.com/shivakumard17/zox-news-website/master/src/Components/Cards/zox-news.png',
 		tech: ['React JS', 'StyledComponents', 'Axios'],
 		workUrl: 'https://github.com/shivakumard17/zox-news-website',
-		live: 'react-data-analytics.netlify.app/',
+		live: 'https://zox-react-website.netlify.app/',
 	},
 ];
