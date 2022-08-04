@@ -5,7 +5,7 @@ export default [
 			'https://raw.githubusercontent.com/shivakumard17/React-dataanalytics-landingpage/main/src/Assets/react-data-analytics-img.png',
 		tech: ['React JS', 'TailwindCSS'],
 		workUrl: 'https://github.com/shivakumard17/React-dataanalytics-landingpage',
-		live: 'react-data-analytics.netlify.app/',
+		live: 'https://react-data-analytics.netlify.app/',
 	},
 	{
 		title: 'Portfolio',
