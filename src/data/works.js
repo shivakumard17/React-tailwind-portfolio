@@ -39,4 +39,12 @@ export default [
 		workUrl: 'https://github.com/shivakumard17/zox-news-website',
 		live: 'https://zox-react-website.netlify.app/',
 	},
+	{
+		title: 'ZoxNews-website',
+		imgUrl:
+			'https://github.com/shivakumard17/Zox-Store/blob/main/src/storeimage.png',
+		tech: ['React JS', 'Redux-tools', 'Axios'],
+		workUrl: 'https://github.com/shivakumard17/Zox-Store',
+		live: 'https://zox-store.netlify.app/',
+	},
 ];
