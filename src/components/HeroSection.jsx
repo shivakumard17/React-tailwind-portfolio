@@ -1,6 +1,7 @@
 import React from 'react';
 import { FaInstagram, FaGithub, FaLinkedin } from 'react-icons/fa';
 
+
 function HeroSection() {
 	return (
 		<div id="hero" className="flex items-center justify-center flex-col py-36">
@@ -19,7 +20,7 @@ function HeroSection() {
 					See Works
 				</a>
 				<a
-					href="#works"
+					href="src/data/ShivakumarD.pdf"
 					className="inline-block  hover:text-white px-8 py-3 border ml-2 mt-5 text-indigo-500  dark:text-gray-300  border-indigo-600 text-base font-medium rounded-md  bg-{#33333303} hover:bg-indigo-700 text-white md:text-md "
 				>
 					Resume ↓
