@@ -20,7 +20,7 @@ function HeroSection() {
 					See Works
 				</a>
 				<a
-					href="https://drive.google.com/file/d/1QlfUVu06Uewc3s29XlzCTRDnMOKF1zDf/view?usp=sharing"
+					href="https://drive.google.com/file/d/1wFbSg5tpMIxLl0ZcIyXleyjDeWwRFbeq/view?usp=sharing"
                                         target="_blank"
 					rel="noreferrer"
 					className="inline-block  hover:text-white px-8 py-3 border ml-2 mt-5 text-indigo-500  dark:text-gray-300  border-indigo-600 text-base font-medium rounded-md  bg-{#33333303} hover:bg-indigo-700 text-white md:text-md "
