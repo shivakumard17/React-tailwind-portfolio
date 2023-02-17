@@ -11,7 +11,7 @@ function Footer() {
 				href="mailto:webcifar@gmail.com"
 				className="text-sm md:text-md hover:text-indigo-500"
 			>
-				Shivakumar.d17@outlook.com
+				Shivakumar.work@outlook.com
 			</a>
 
 			<ul className="text-white flex justify-center gap-4 mt-4 mb-2 text-2xl ">
