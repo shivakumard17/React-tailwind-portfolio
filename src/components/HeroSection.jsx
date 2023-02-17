@@ -45,16 +45,16 @@ function HeroSection() {
 						>
 							<FaLinkedin />
 						</a>
-					</li>
-					<li className="transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-100 hover:text-white  ">
-						<a
-							href="https://www.instagram.com/draco_code/"
-							target="_blank"
-							rel="noreferrer"
-						>
-							<FaInstagram />
-						</a>
-					</li>
+ 					</li>
+// 					<li className="transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-100 hover:text-white  ">
+// 						<a
+// 							href="https://www.instagram.com/draco_code/"
+// 							target="_blank"
+// 							rel="noreferrer"
+// 						>
+// 							<FaInstagram />
+// 						</a>
+// 					</li>
 				</ul>
 			</div>
 		</div>
