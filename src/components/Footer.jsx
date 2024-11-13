@@ -24,24 +24,7 @@ function Footer() {
 						<FaGithub />
 					</a>
 				</li>
-				<li className="hover:text-indigo-500 ">
-					<a
-						href="https://www.linkedin.com/in/shivakumard17/"
-						target="_blank"
-						rel="noreferrer"
-					>
-						<FaLinkedin />
-					</a>
-				</li>
-				<li className=" hover:text-indigo-500 ">
-					<a
-						href="https://www.instagram.com/draco_code/"
-						target="_blank"
-						rel="noreferrer"
-					>
-						<FaInstagram />
-					</a>
-				</li>
+				
 			</ul>
 			<p className="text-xs mt-2 text-gray-500">
 				© Shiv.D Creative {new Date().getFullYear()}. All rights reserved
