@@ -1,4 +1,22 @@
 export default [
+	
+	{
+		title: 'VR-X Pro',
+		imgUrl:
+			'https://raw.githubusercontent.com/shivakumard17/React-tailwind-portfolio/refs/heads/master/src/images/vr-x-pro.png',
+		tech: ['React JS', 'TailwindCSS','Framer Motion'],
+		workUrl: '',
+		live: 'https://vr-xpro.netlify.app/',
+	},
+	{
+		title: 'Sneaker-Vault',
+		imgUrl:
+			'https://raw.githubusercontent.com/shivakumard17/React-tailwind-portfolio/refs/heads/master/src/images/sneker.png',
+		tech: ['React JS', 'TailwindCSS','Framer Motion'],
+		workUrl: '',
+		live: 'https://sneakervault-store.netlify.app/',
+	},
+	
 	{
 		title: 'Data-Analytics-landingpage',
 		imgUrl:
@@ -32,19 +50,12 @@ export default [
 		live: 'https://blog-site-sk.netlify.app',
 	},
 	{
-		title: 'ZoxNews-website',
+		title: 'News-Hub',
 		imgUrl:
-			'https://raw.githubusercontent.com/shivakumard17/zox-news-website/master/src/Components/Cards/zox-news.png',
-		tech: ['React JS', 'StyledComponents', 'Axios'],
-		workUrl: 'https://github.com/shivakumard17/zox-news-website',
-		live: 'https://zox-react-website.netlify.app/',
+			'https://raw.githubusercontent.com/shivakumard17/React-tailwind-portfolio/refs/heads/master/news-hub.png',
+		tech: ['React JS', 'TailwindCss', 'Axios'],
+		workUrl: '',
+		live: 'https://news-hub09.netlify.app/',
 	},
-	{
-		title: 'ZoxNews-Store',
-		imgUrl:
-			'https://raw.githubusercontent.com/shivakumard17/Zox-Store/main/src/storeimage.png',
-		tech: ['React JS', 'Redux-tools', 'Axios'],
-		workUrl: 'https://github.com/shivakumard17/Zox-Store',
-		live: 'https://zox-store.netlify.app/',
-	},
+	
 ];
